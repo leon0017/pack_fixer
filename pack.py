@@ -2,7 +2,7 @@ import os
 import json
 from PIL import Image, ImageEnhance, ImageChops
 
-path = 'C:\\Users\\sd3c2\\AppData\\Roaming\\.minecraft\\resourcepacks\\Space2\\assets\\minecraft'
+path = 'C:\\Users\\sd3c2\\AppData\\Roaming\\.minecraft\\resourcepacks\\Space\\assets\\minecraft'
 modelsPath = path + "\\models\\custom"
 modelsMiscPath = path + "\\models"
 texturesPath = path + "\\textures\\item"
